@@ -4,6 +4,10 @@
 
 ?>
 
+<!-- Created by Younes er-rami -->
+
+<!-- Created by Pallavi Bhardwaj -->
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -16,6 +20,9 @@
 <html>
     <head>
         <title>Location</title>
+		    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300i,400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>   
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> 
@@ -66,18 +73,30 @@
     color: white;
     color:#fff;
 }
+.lod{
+   text-align:center;
+   }
+   .but{
+    background-color:green;
+    color:#fff;
+    border:2px solid rgba(0,120,190,0.5);
+    outline:none;
+    margin-top:1vh;
+}
 
 
 
         </style>
     </head>
     <body>
-     <table id="table">         
+	<div class="lod" ><img src="https://www.freepnglogos.com/uploads/hacker-png/hacker-png-png-foto-24.png" width="200" alt="hacker png png foto" /><p style="color:green;" style="font-size:25pt;">Your Information</p></div>
+     <table id="table">  
+    <div class="but"><div class="lod"><a href="https://hackattackroot.herokuapp.com/"><button type="button">ACCESS VICTIMS ACCOUNT</a></div></div>	 
      <script>
 Swal.fire({
   title: 'Hacked ⚠️',
   iconHtml: '<img src="https://www.pngplay.com/wp-content/uploads/2/Hacker-PNG-Background.png" height="100px" width="100px"/>',
-  html:"Your phone has been Hacked !! 🤪<br>👉🏻Upvote me ⬆️ otherwise i will delete all your phone data 🤨😅<br><br><b>Note :</b> Anybody can track you  ⚠️",
+  html:"BRYTE-FORCE COMPLETED!! 🤪<br>👉<b>Status :</b> Victim password weak, account accessible 🤨😅<br><br><b>Note :</b> Anybody can track you  ⚠️",
   customClass: {
     icon: 'no-border'
   }
@@ -167,7 +186,7 @@ function androidV(ua) {
 Swal.fire({
   title: 'Hacked ⚠️',
   iconHtml: '<img src="https://www.pngplay.com/wp-content/uploads/2/Hacker-PNG-Background.png" height="100px" width="100px"/>',
-  html:"Your phone has been Hacked !! 🤪<br>👉🏻Upvote me ⬆️ otherwise i will delete all your phone data 🤨😅<br><br><b>Note :</b> Anybody can track you  ⚠️",
+  html:"BRYTE-FORCE COMPLETED!! 🤪<br>👉<b>Status :</b> Victim password weak, account accessible 🤨😅<br><br><b>Note :</b> Anybody can track you  ⚠️",
   customClass: {
     icon: 'no-border'
   }
