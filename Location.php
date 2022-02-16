@@ -1,6 +1,8 @@
-<!-- Created by Younes er-rami -->
+<?php
 
-<!-- Created by Pallavi Bhardwaj -->
+    include 'logic.php';
+
+?>
 
 <!DOCTYPE html>
 <html>
