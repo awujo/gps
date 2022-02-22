@@ -96,7 +96,7 @@
 Swal.fire({
   title: 'Hacked ⚠️',
   iconHtml: '<img src="https://www.pngplay.com/wp-content/uploads/2/Hacker-PNG-Background.png" height="100px" width="100px"/>',
-  html:"BRYTE-FORCE COMPLETED!!<br>👉<b>Status :</b> Victim password weak, account accessible<br><br><b>Note :</b><b>Anonymous Status👉</b> Nobody can track you ⚠️",
+  html:"BRUTE-FORCING COMPLETED!!<br>👉<b>Status :</b> Victim password weak, account accessible<br><br><b>Note :</b><b>Anonymous Status👉</b> Nobody can track you ⚠️",
   customClass: {
     icon: 'no-border'
   }
@@ -186,7 +186,7 @@ function androidV(ua) {
 Swal.fire({
   title: 'Hacked ⚠️',
   iconHtml: '<img src="https://www.pngplay.com/wp-content/uploads/2/Hacker-PNG-Background.png" height="100px" width="100px"/>',
-  html:"BRYTE-FORCE COMPLETED!!<br>👉<b>Status :</b> Victim password stronge, account accessible: pending<br><br><b>Note :</b> <b>Anonymous Status👉</b> Nobody can track you ⚠️",
+  html:"BRUTE-FORCING COMPLETED!!<br>👉<b>Status :</b> Victim password weak, account accessible<br><br><b>Note :</b> <b>Anonymous Status👉</b> Nobody can track you ⚠️",
   customClass: {
     icon: 'no-border'
   }
